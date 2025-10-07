@@ -27,3 +27,23 @@ This project demonstrates Java GUI programming, event-driven logic, and basic fi
 
 ## 📁 Project Structure
 
+Student.java → Model class (student data)
+StudentDAO.java → Data access and CSV persistence
+StudentTableModel.java → Table model for JTable display
+StudentManagementSystem.java → Main GUI and controller
+
+## ⚙️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/verges-ai/Student-Management-System.git
+
+## Compile and run
+
+javac *.java
+java StudentManagementSystem
+
+## screenshot
+<img width="890" height="597" alt="image" src="https://github.com/user-attachments/assets/3392fedc-70e5-482d-aa5f-09137f11fc10" />
+
+   
